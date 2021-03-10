@@ -1,3 +1,5 @@
+<!--https://opendatastructures.org/newhtml/ods/latex/index.html-->
+
 # Resources
 ![programmers](https://cloud-2xij5m9uj-hack-club-bot.vercel.app/0giphy__1_.gif)
 
@@ -123,12 +125,6 @@ Glimpse of what you will learn through this level
     
     
     Got some ideas and make changes, make a pull request. we will review and get it merged asap....
-    
-    
-    
-    
-    
-    
     
     
     
