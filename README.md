@@ -56,6 +56,10 @@ Prerequisites : Basic knowledge of C++.
 
 **One can read a book and learn about the basics of CP :**
 
+Coding Ninjas Guided Path: It contains many domains. For CP Basic of C++, DSA and CP 
+are good course. 
+[Link of Guided path](https://www.codingninjas.com/codestudio/guided-paths).
+
 Book link: @[https://cses.fi/book/book.pdf](https://cses.fi/book/book.pdf)
 
 To get maximum from the book, read some part then apply it. One can switch to the next chapter if one feels confident about the topics. Revision of topics is also important to build up strong muscle memory. 
